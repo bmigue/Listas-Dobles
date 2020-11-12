@@ -1,0 +1,8 @@
+﻿  ListasDobles.cpp
+C:\Users\Miguel Gutierrez\source\repos\ListasDobles\ListasDobles\listaDobleLineal.h(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Miguel Gutierrez\source\repos\ListasDobles\ListasDobles\listaDobleCircular.h(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Miguel Gutierrez\source\repos\ListasDobles\ListasDobles\ListasDobles.cpp(12,9): warning C4101: 'opcion': unreferenced local variable
+  listaDobleCircular.cpp
+C:\Users\Miguel Gutierrez\source\repos\ListasDobles\ListasDobles\listaDobleCircular.h(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  Generating Code...
+  ListasDobles.vcxproj -> C:\Users\Miguel Gutierrez\source\repos\ListasDobles\Debug\ListasDobles.exe
